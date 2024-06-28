@@ -1,0 +1,54 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    font-family: poppins;
+    background-color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0 10%;
+
+}
+
+h3 {
+    padding-bottom: 4%;
+}
+
+.title-info {
+    margin-bottom: 5%;
+}
+
+.create {
+    font-weight: bold;
+}
+
+
+
+.step{
+
+}
+
+
+img {
+    border-radius: 8px; 
+    border: 1px solid #F4F2F7;
+    width: 30vw;
+    margin: 1% 0 5% 0;
+}
+
+.number {
+    background-color: #13e5f9; /* Set your desired background color */
+    color: #000000 ; /* Set the text color */
+    display: inline-block;
+    width: 40px; /* Set the width of the circle */
+    height: 40px; /* Set the height of the circle */
+    border-radius: 50%; /* Make it a circle */
+    text-align: center;
+    line-height: 40px; /* Center the text vertically */
+    
+}
