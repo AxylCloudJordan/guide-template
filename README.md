@@ -10,7 +10,7 @@ It is not intended to be used as a stand alone website.
 
 To use this template:
 
-1. Create a new page called ...
+1. Create a new page following the naming scheme.
 2. Copy the template HTML and paste in the created file.
 3. Change the <title> to an appropriate name.
 4. Change template information.
